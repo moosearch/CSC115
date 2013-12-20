@@ -1,0 +1,29 @@
+CSC 115 Fall 2012 Summary of the course.
+
+-----------
+ASSIGNMENTS
+-----------
+1: Review of Java Basics && Objects; make a GPA Calculator
+2: Recursive vs Iterative methods; design methods 
+   for calculating sin(x), x!, and x^n
+3: ADTs and Linked Lists; make a String Operations 
+   ADT that mimics the String class.
+4: Infix and postfix expressions; make a calculator that 
+   does arithmetic via postfix expressions using stacks.
+
+----
+LABS
+----
+1: Basic java review; loops, arrays, and methods
+2: Scanner, command line arguments, file input,
+   objects, designing classes
+3: Recursion; summing integers, number sequences,
+   recursive shapes
+4: Abstraction; inheritance and interfaces.
+5: Linked Lists: intro to node classes and the head/tail node
+6: Making queues and stacks with linked lists
+7: Generics, making binary trees, and transversing through a
+   tree by either preorder, inorder, or postorder transversals
+8: Binary SEARCH trees and level-order transversal
+9: Hashtables introduction
+10: More hashtables, doing separate chaining as opposed to linear probing

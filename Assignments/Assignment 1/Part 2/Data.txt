@@ -1,0 +1,28 @@
+4
+
+Jeffries, Jiang
+145832
+4
+CSc106 A Math122 B- Math100 B Engl135 B- Psyc100 A
+CSc110 B+ Math101 B Engr240 B+ Bio100 A Art100 B-
+CSc115 A+ Math222 C+ Bio101 B+ Art102 A Mus101 B-
+CSc225 B SEng265 A CSc230 B+ Art240 B+ Mus102 B
+
+Bowler, Leala
+27432
+3
+CSc111 B+ Math110 C+ Math100 C Engr110 B+ Phys122 B
+Chem150 B Math101 C Engr120 B+ Phys125 B- Engr141 B
+Math200 C Math201 D Elec216 B Elec200 B+ Elec220 C
+
+Niccoli, Alessandro
+387667
+2
+CSc106 A+ Math122 A Math100 B+ Engl135 B Hist100 C
+CSc110 A Math101 B+ Engr240 B Fren100 B Art100 B-
+
+Bowler, Leala
+27432
+2
+CSc111 B+ Math110 C+ Math100 C Engr110 B+ Phys122 B
+Chem150 B Math101 C Engr120 B+ Phys125 B- Engr141 B
